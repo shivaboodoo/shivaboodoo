@@ -19,3 +19,10 @@ I'm a cybersecurity professional based in Trinidad and Tobago, working in securi
 ## What I'm Building
 
 I'm developing practical cybersecurity resources, threat modelling examples and security labs to share knowledge and support learning across the Caribbean and beyond.
+
+
+## Featured Project
+
+### [Threat Modelling Examples](https://github.com/shivaboodoo/threat-modelling-examples)
+
+A threat assessment of a fictional document submission portal, covering architecture, trust boundaries, STRIDE threats, security controls and verification activities.
