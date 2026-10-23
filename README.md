@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shiva Boodoo
 
-<!--
-**shivaboodoo/shivaboodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional based in Trinidad and Tobago, working in security architecture, cloud security, digital forensics and regional cybersecurity capacity building.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity architecture and risk management
+- Microsoft cloud security and identity
+- Threat modelling and secure design
+- Incident response and digital forensics
+- Cybersecurity awareness and technical training
+
+## Professional Credentials
+
+- MSc in IT Security and Digital Forensics
+- CISSP | CCSP | CEH Master
+- Microsoft Certified: Cybersecurity Architect Expert
+
+## What I'm Building
+
+I'm developing practical cybersecurity resources, threat modelling examples and security labs to share knowledge and support learning across the Caribbean and beyond.
